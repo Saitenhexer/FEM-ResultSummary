@@ -146,7 +146,7 @@ body {
   font-size: clamp(1rem, 0.25rem + 2vw, 1.125rem);
   color: var(--clr-lghtred);
   font-weight: var(--fnt-wght-500);
-  background-image: url(/assets/images/icon-reaction.svg);
+  background-image: url(./assets/images/icon-reaction.svg);
   background-repeat: no-repeat;
   background-position: left center;
   padding-left: 2rem;
@@ -161,7 +161,7 @@ body {
   font-size: clamp(1rem, 0.25rem + 2vw, 1.125rem);
   color: var(--clr-orayellow);
   font-weight: var(--fnt-wght-500);
-  background-image: url(/assets/images/icon-memory.svg);
+  background-image: url(./assets/images/icon-memory.svg);
   background-repeat: no-repeat;
   background-position: left center;
   padding-left: 2rem;
@@ -176,7 +176,7 @@ body {
   font-size: clamp(1rem, 0.25rem + 2vw, 1.125rem);
   color: var(--clr-greenteal);
   font-weight: var(--fnt-wght-500);
-  background-image: url(/assets/images/icon-verbal.svg);
+  background-image: url(./assets/images/icon-verbal.svg);
   background-repeat: no-repeat;
   background-position: left center;
   padding-left: 2rem;
@@ -191,7 +191,7 @@ body {
   font-size: clamp(1rem, 0.25rem + 2vw, 1.125rem);
   color: var(--clr-greenteal);
   font-weight: var(--fnt-wght-500);
-  background-image: url(/assets/images/icon-verbal.svg);
+  background-image: url(./assets/images/icon-verbal.svg);
   background-repeat: no-repeat;
   background-position: left center;
   padding-left: 2rem;
@@ -206,7 +206,7 @@ body {
   font-size: clamp(1rem, 0.25rem + 2vw, 1.125rem);
   color: var(--clr-cobaltblue);
   font-weight: var(--fnt-wght-500);
-  background-image: url(/assets/images/icon-visual.svg);
+  background-image: url(./assets/images/icon-visual.svg);
   background-repeat: no-repeat;
   background-position: left center;
   padding-left: 2rem;
